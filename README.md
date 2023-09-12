@@ -29,3 +29,6 @@ If you are developing a production application, we recommend updating the config
 ## STEP
 
 1. Create Navber / Header
+2. Body
+
+## styling with sylte component
