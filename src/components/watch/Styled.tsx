@@ -1,11 +1,10 @@
 import styled from "styled-components";
 
-export const EnjorCon = styled.section`
-  background-color: #000;
+export const WatchContainer = styled.section`
   display: flex;
   justify-content: space-between;
-  height: 460px;
-  color: #fff;
+  background: #000;
   padding: 5rem 15rem;
+  color: #fff;
   border-bottom: 8px solid #222;
 `;
